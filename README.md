@@ -20,6 +20,9 @@ Secciones y funcionalidades:
 - Configuración: Consulta de la versión y nombre del sistema, monitoreo de cajas activas, generación de respaldos y ajustes de preferencias (tipo de moneda, fecha y hora).
 
 Imágenes: 
+
+
+
 <img width="557" height="313" alt="image" src="https://github.com/user-attachments/assets/73feed4b-a57a-4994-9962-4222f92d7220" />
 <img width="551" height="314" alt="image" src="https://github.com/user-attachments/assets/e6473067-bc6e-4273-be2f-275b0c6a56d6" />
 <img width="543" height="312" alt="image" src="https://github.com/user-attachments/assets/dc984a46-9c0a-45c3-83af-596a58f053cd" />
