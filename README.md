@@ -2,8 +2,8 @@
 Interfaz de ferretería 
 
 Realizado por:
-Sánchez Valenzuela Natalia Guadalupe
-Rodriguez Andrade Denise Abigail
+- Sánchez Valenzuela Natalia Guadalupe
+- Rodriguez Andrade Denise Abigail
 
 En este trabajo se implementó una interfaz para una ferretería orientada a computadoras de escritorio. Aquí abarcamos todas las situaciones que pueden ocurrir al momento de realizar acciones en la interfaz.
 Añadimos los roles de cajeros y administradores: cada rol tiene accesos y permisos distintos, teniendo el administrador el control total del sistema y el cajero ciertas limitaciones funcionales.
